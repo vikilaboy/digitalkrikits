@@ -3,6 +3,8 @@ DigitalKrikits
 
 DigitalKrikits Venues Management
 
+Here it's a demo - http://digitalkrikits.mizerii.net
+
 You need PhalconPHP Framework and at least PHP 5.5.*
 Installation guide here:
 
