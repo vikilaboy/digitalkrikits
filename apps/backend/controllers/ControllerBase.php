@@ -40,7 +40,7 @@ class ControllerBase extends Controller
         ;
 
         $this->assets
-            ->addJs('//ajax.googleapis.com/ajax/libs/jquery/2.1.3jquery.min.js', false)
+            ->addJs('//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js', false)
             ->addJs('//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js', false)
             ->addJs('//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js', false);
     }
